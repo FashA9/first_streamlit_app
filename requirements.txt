@@ -1,7 +1,9 @@
 # requirements.txt
 
-pip3 install --upgrade pip --user
-snowflake-connector-python==3.0.4
+
+snowflake-connector-python
+
+urllib3==23.2.1
 
 import snowflake.connector
 
