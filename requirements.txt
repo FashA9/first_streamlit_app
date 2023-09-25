@@ -1,6 +1,7 @@
 # requirements.txt
 showflake-connector-python
+streamlit==1.25.0
 
 import snowflake.connector
 
-streamlit==1.25.0
+
