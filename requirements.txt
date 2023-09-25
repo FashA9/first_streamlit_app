@@ -1,9 +1,7 @@
 # requirements.txt
 
-
+/home/appuser/venv/bin/python -m pip install --upgrade pip
 snowflake-connector-python
-
-urllib3==23.2.1
 
 import snowflake.connector
 
