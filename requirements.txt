@@ -1,6 +1,8 @@
 # requirements.txt
 
-python3 -m pip install --no-use-pep517 snowflake-connector-python
+/home/appuser/venv/bin/python -m pip install --upgrade pip' command
+
+snowflake-connector-python
 
 import snowflake.connector
 
