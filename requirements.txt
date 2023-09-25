@@ -1,8 +1,7 @@
 # requirements.txt
 
-pip install snowflake-connector-python
-pip install --upgrade snowflake-connector-python
-
+pip3 install --upgrade pip --user
+snowflake-connector-python==3.0.4
 
 import snowflake.connector
 
