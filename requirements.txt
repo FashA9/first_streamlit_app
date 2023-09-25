@@ -1,2 +1,4 @@
 # requirements.txt
 showflake-connector-python
+
+import snowflake.connector
