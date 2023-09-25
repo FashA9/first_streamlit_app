@@ -1,9 +1,7 @@
 # requirements.txt
 
-pip install --upgrade snowflake-connector-python
+snowflake-connector-python
 
-showflake-connector-python
-streamlit==1.25.0
 
 import snowflake.connector
 
