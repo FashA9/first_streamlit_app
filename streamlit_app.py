@@ -51,8 +51,8 @@ try:
 
 
 
-# Add a button to load the fruit
-if streamlit.button('Get Fruit Load List'):
+
+
   
 
    
